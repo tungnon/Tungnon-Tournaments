@@ -1,0 +1,56 @@
+Diancie-Mega @ Diancite  
+Ability: Clear Body  
+EVs: 128 Atk / 128 SpA / 252 Spe  
+Naive Nature  
+- Diamond Storm  
+- Stealth Rock  
+- Moonblast  
+- Earth Power  
+
+Quagsire @ Leftovers  
+Ability: Unaware  
+EVs: 252 HP / 92 Def / 164 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Toxic  
+- Recover  
+- Earthquake  
+- Scald  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Sacred Sword  
+- Smart Strike  
+- Knock Off  
+
+Hawlucha @ Psychic Seed  
+Ability: Unburden  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Acrobatics  
+- Swords Dance  
+- Roost  
+- High Jump Kick  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Careful Nature  
+- Wish  
+- Protect  
+- Iron Head  
+- U-turn  
+
+Tapu Lele @ Psychium Z  
+Ability: Psychic Surge  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Aromatherapy  
+- Moonblast  
+- Psychic  
+

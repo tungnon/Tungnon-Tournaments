@@ -1,0 +1,58 @@
+Kyurem @ Choice Specs  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Draco Meteor  
+- Earth Power  
+- Focus Blast  
+
+Heatran (M) @ Steelium Z  
+Ability: Flash Fire  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Lava Plume  
+- Earth Power  
+- Flash Cannon  
+- Stealth Rock  
+
+Magnezone @ Choice Scarf  
+Ability: Magnet Pull  
+EVs: 4 HP / 4 Def / 248 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Hidden Power [Fire]  
+- Flash Cannon  
+- Volt Switch  
+
+Tornadus-Therian @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Knock Off  
+- U-turn  
+- Defog  
+
+Tangrowth (M) @ Assault Vest  
+Ability: Regenerator  
+EVs: 252 HP / 12 Def / 244 SpD  
+Sassy Nature  
+- Giga Drain  
+- Knock Off  
+- Earthquake  
+- Hidden Power [Ice]  
+
+Toxapex (M) @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Haze  
+- Recover  
+- Toxic  
+

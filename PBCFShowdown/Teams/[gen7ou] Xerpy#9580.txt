@@ -1,0 +1,62 @@
+Pants (Lilligant) @ Normalium Z  
+Ability: Own Tempo  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Sleep Powder  
+- Petal Dance  
+- Hyper Beam  
+
+Manaphy @ Metronome  
+Ability: Hydration  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+IVs: 0 Atk  
+- Surf  
+- Tail Glow  
+- Ice Beam  
+- Psychic  
+
+Jirachi @ Metronome  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 252 Atk / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- Fire Punch  
+- Thunder Wave  
+- U-turn  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+Shiny: Yes  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Sassy Nature  
+- Leech Seed  
+- Protect  
+- Flamethrower  
+- Heavy Slam  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 160 SpD / 96 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Lava Plume  
+- Protect  
+- Toxic  
+- Earth Power  
+
+Ninetales-Alola (F) @ Light Clay  
+Ability: Snow Warning  
+Shiny: Yes  
+EVs: 252 HP / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Aurora Veil  
+- Freeze-Dry  
+- Hail  
+- Hypnosis  
+

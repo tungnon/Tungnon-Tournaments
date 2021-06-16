@@ -1,0 +1,56 @@
+bejita-sama pls (Greninja-Ash) (M) @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Scald  
+- Ice Beam  
+- Dark Pulse  
+- Water Shuriken  
+
+KILL DRILL++ (Beedrill-Mega) @ Beedrillite  
+Ability: Adaptability  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Poison Jab  
+- Fell Stinger  
+- Drill Run  
+- Pursuit  
+
+fat cat (Blissey) @ Leftovers  
+Ability: Natural Cure  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Wish  
+- Seismic Toss  
+- Toxic  
+- Protect  
+
+BANNED (Landorus-Therian) (M) @ Choice Band  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Knock Off  
+
+chinder (Kyurem-Black) @ Choice Scarf  
+Ability: Teravolt  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Outrage  
+- Fusion Bolt  
+- Stone Edge  
+- Iron Head  
+
+daily dose (Tornadus-Therian) (M) @ Choice Specs  
+Ability: Regenerator  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Hurricane  
+- Heat Wave  
+- U-turn  
+- Knock Off  
+

@@ -1,0 +1,54 @@
+Tropius @ Expert Belt  
+Ability: Chlorophyll  
+EVs: 252 HP / 124 Atk / 132 Def  
+Bold Nature  
+- Dragon Dance  
+- Body Slam  
+- Air Slash  
+- Giga Drain  
+
+Infernape @ Focus Sash  
+Ability: Blaze  
+EVs: 252 Atk / 252 SpA / 4 Spe  
+Brave Nature  
+- Blaze Kick  
+- Close Combat  
+- Fire Blast  
+- Flare Blitz  
+
+Mimikyu @ Mimikium Z  
+Ability: Disguise  
+Happiness: 0  
+EVs: 128 Def / 128 SpD / 252 Spe  
+- Destiny Bond  
+- Play Rough  
+- Giga Drain  
+- Leech Life  
+
+HT Reference (Blacephalon) @ Choice Band  
+Ability: Beast Boost  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 SpD  
+Sassy Nature  
+- Explosion  
+
+Magmortar @ Rocky Helmet  
+Ability: Vital Spirit  
+EVs: 4 HP / 252 Atk / 252 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Flame Burst  
+- Clear Smog  
+- Counter  
+- Detect  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Solar Power  
+Shiny: Yes  
+EVs: 60 Atk / 252 SpD / 196 Spe  
+Brave Nature  
+- Fire Fang  
+- Ancient Power  
+- Dragon Dance  
+- Earthquake  
+

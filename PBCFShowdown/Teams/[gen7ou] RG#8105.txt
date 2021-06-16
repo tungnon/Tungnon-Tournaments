@@ -1,0 +1,59 @@
+mommy :flushed: (Diancie-Mega) @ Diancite  
+Ability: Magic Bounce  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Hasty Nature  
+- Diamond Storm  
+- Moonblast  
+- Earth Power  
+- Stealth Rock  
+
+snake on plane (Serperior) @ Choice Scarf  
+Ability: Contrary  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Defog  
+- Hidden Power [Fire]  
+- Glare  
+
+drowning in lava (Heatran) @ Assault Vest  
+Ability: Flash Fire  
+EVs: 248 HP / 216 SpA / 44 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Lava Plume  
+- Flash Cannon  
+- Ancient Power  
+- Earth Power  
+
+le spider (Araquanid) @ Focus Sash  
+Ability: Water Bubble  
+Shiny: Yes  
+EVs: 216 HP / 252 Atk / 40 SpA  
+Brave Nature  
+IVs: 0 Spe  
+- Liquidation  
+- Hidden Power [Fire]  
+- Sticky Web  
+- Magic Coat  
+
+snoop (Landorus-Therian) (M) @ Flyinium Z  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fly  
+- Swords Dance  
+- Earthquake  
+- Rock Polish  
+
+saber (Bisharp) @ Black Glasses  
+Ability: Defiant  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Sucker Punch  
+- Knock Off  
+- Iron Head  
+- Swords Dance  
+

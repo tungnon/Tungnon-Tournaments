@@ -1,0 +1,57 @@
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+IVs: 0 SpA  
+- U-turn  
+- Stealth Rock  
+- Earthquake  
+- Rock Slide  
+
+Tapu Koko @ Choice Specs  
+Ability: Electric Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dazzling Gleam  
+- Thunderbolt  
+- Volt Switch  
+- Hidden Power [Ice]  
+
+Marowak-Alola @ Thick Club  
+Ability: Rock Head  
+EVs: 168 HP / 252 Atk / 28 SpD / 60 Spe  
+Adamant Nature  
+IVs: 0 SpA  
+- Flare Blitz  
+- Shadow Bone  
+- Earthquake  
+- Knock Off  
+
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 92 HP / 252 Atk / 164 Spe  
+Adamant Nature  
+- Thunder Punch  
+- Play Rough  
+- Iron Head  
+- Sucker Punch  
+
+Kartana @ Focus Sash  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Smart Strike  
+- Psycho Cut  
+- X-Scissor  
+
+Greninja @ Waterium Z  
+Ability: Battle Bond  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Gunk Shot  
+- Water Shuriken  
+- Dark Pulse  
+- Surf  
+

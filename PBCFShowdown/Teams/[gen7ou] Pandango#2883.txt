@@ -1,0 +1,59 @@
+horny (Tapu Bulu) @ Life Orb  
+Ability: Grassy Surge  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Wood Hammer  
+- Focus Punch  
+- Stone Edge  
+- Megahorn  
+
+very horny (Heracross-Mega) (M) @ Heracronite  
+Ability: Moxie  
+Shiny: Yes  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Close Combat  
+- Rock Blast  
+- Pin Missile  
+- Bullet Seed  
+
+an droid (Magearna) @ Focus Sash  
+Ability: Soul-Heart  
+EVs: 252 HP / 4 Def / 252 SpD  
+Sassy Nature  
+IVs: 0 Atk / 0 Spe  
+- Volt Switch  
+- Trick Room  
+- Fleur Cannon  
+- Ice Beam  
+
+Rey Mysterio (Hawlucha) (M) @ Grassy Seed  
+Ability: Unburden  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Encore  
+- High Jump Kick  
+- Acrobatics  
+
+Heatrans rights (Heatran) (M) @ Grassium Z  
+Ability: Flash Fire  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Eruption  
+- Flash Cannon  
+- Earth Power  
+- Solar Beam  
+
+Hoopanda (Hoopa-Unbound) @ Red Card  
+Ability: Magician  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Trick Room  
+- Psychic  
+- Dark Pulse  
+- Destiny Bond  
+

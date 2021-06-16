@@ -1,0 +1,60 @@
+Heatran @ Air Balloon  
+Ability: Flash Fire  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Flash Cannon  
+- Earth Power  
+- Stealth Rock  
+
+Alakazam-Mega @ Alakazite  
+Ability: Magic Guard  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dazzling Gleam  
+- Psychic  
+- Shadow Ball  
+- Toxic  
+
+Garchomp @ Leftovers  
+Ability: Rough Skin  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Claw  
+- Earthquake  
+- Crunch  
+- Iron Head  
+
+Shaymin @ Life Orb  
+Ability: Natural Cure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leech Seed  
+- Synthesis  
+- Energy Ball  
+- Air Slash  
+
+Greninja-Ash @ Expert Belt  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Water Shuriken  
+- Surf  
+- Dark Pulse  
+- Ice Beam  
+
+Hawlucha  
+Ability: Limber  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Brick Break  
+- Drain Punch  
+- Acrobatics  
+- Thunder Punch  
+

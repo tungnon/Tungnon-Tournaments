@@ -1,0 +1,58 @@
+Do (Stoutland) @ Choice Band  
+Ability: Sand Rush  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Return  
+- Superpower  
+- Pursuit  
+- Crunch  
+
+Little (Gligar) @ Eviolite  
+Ability: Sand Veil  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Earthquake  
+- Roost  
+- Knock Off  
+- Toxic  
+
+A (Heliolisk) @ Bright Powder  
+Ability: Sand Veil  
+EVs: 252 HP / 4 Atk / 140 Def / 112 SpD  
+Impish Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Surf  
+- Volt Switch  
+- Sandstorm  
+
+of Trolling (Pyukumuku) @ Leftovers  
+Ability: Unaware  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Recover  
+- Counter  
+- Toxic  
+- Soak  
+
+We (Dragalge) @ Black Sludge  
+Ability: Adaptability  
+EVs: 252 HP / 204 SpD / 52 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Sludge Wave  
+- Toxic Spikes  
+- Haze  
+
+Bit (Gigalith) @ Smooth Rock  
+Ability: Sand Stream  
+EVs: 252 HP / 4 Atk / 140 Def / 112 SpD  
+Impish Nature  
+- Earthquake  
+- Stealth Rock  
+- Stone Edge  
+- Toxic  
+

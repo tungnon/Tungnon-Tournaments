@@ -1,0 +1,57 @@
+Scizor-Mega (M) @ Scizorite  
+Ability: Technician  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Bullet Punch  
+- Pursuit  
+- U-turn  
+- Knock Off  
+
+Landorus-Therian (M) @ Assault Vest  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Iron Tail  
+- Knock Off  
+- Outrage  
+
+Jirachi @ King's Rock  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ancient Power  
+- Energy Ball  
+- Flash Cannon  
+- Psychic  
+
+Snorlax (M) @ Leftovers  
+Ability: Immunity  
+Shiny: Yes  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Iron Head  
+- Rest  
+- Power-Up Punch  
+- Sleep Talk  
+
+Archeops (M)  
+Ability: Defeatist  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Acrobatics  
+- Earthquake  
+- Rock Slide  
+- Knock Off  
+
+Zeraora @ Mago Berry  
+Ability: Volt Absorb  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Plasma Fists  
+- Fake Out  
+- Knock Off  
+- Drain Punch  
+

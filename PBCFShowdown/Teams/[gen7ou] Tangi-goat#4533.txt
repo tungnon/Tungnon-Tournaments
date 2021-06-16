@@ -1,0 +1,61 @@
+Birb (Skarmory) @ Rocky Helmet  
+Ability: Sturdy  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 SpD  
+Gentle Nature  
+- Roar  
+- Spikes  
+- Stealth Rock  
+- Rock Slide  
+
+Dwanye TR (Tyranitar) @ Assault Vest  
+Ability: Sand Stream  
+Shiny: Yes  
+EVs: 4 Atk / 252 Def / 252 SpD  
+Adamant Nature  
+- Crunch  
+- Rock Slide  
+- Aqua Tail  
+- Avalanche  
+
+Flakes (Garchomp) @ Rocky Helmet  
+Ability: Rough Skin  
+Shiny: Yes  
+EVs: 252 HP / 4 Def / 252 SpD  
+Relaxed Nature  
+- Rest  
+- Earthquake  
+- Toxic  
+- Dragon Rush  
+
+Cleft (Clefable) @ Leftovers  
+Ability: Magic Guard  
+Shiny: Yes  
+EVs: 252 HP / 128 Def / 128 SpD  
+Quiet Nature  
+- Wish  
+- Protect  
+- Cosmic Power  
+- Drain Punch  
+
+Barbara (Ferrothorn) (F) @ Leftovers  
+Ability: Iron Barbs  
+Shiny: Yes  
+EVs: 4 HP / 252 Def / 252 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Toxic  
+- Rest  
+- Sleep Talk  
+
+Iron Fist (Bisharp) @ Focus Sash  
+Ability: Inner Focus  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Timid Nature  
+- Sucker Punch  
+- Swords Dance  
+- Iron Head  
+- Toxic  
+

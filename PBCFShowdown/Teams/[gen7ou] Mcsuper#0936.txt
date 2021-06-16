@@ -1,0 +1,55 @@
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Smart Strike  
+- Leaf Blade  
+- Knock Off  
+
+Diancie-Mega @ Diancite  
+Ability: Magic Bounce  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Earth Power  
+- Diamond Storm  
+- Moonblast  
+- Hidden Power [Fire]  
+
+Kyurem-Black @ Life Orb  
+Ability: Teravolt  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Outrage  
+- Ice Beam  
+- Dragon Claw  
+- Fusion Bolt  
+
+Greninja-Ash (M) @ Assault Vest  
+Ability: Battle Bond  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+- Gunk Shot  
+- Ice Beam  
+- Dark Pulse  
+- Water Shuriken  
+
+Manaphy @ Leftovers  
+Ability: Hydration  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Tail Glow  
+- Energy Ball  
+- Ice Beam  
+- Surf  
+
+Jirachi @ King's Rock  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- Zen Headbutt  
+- Ice Punch  
+- Body Slam  
+

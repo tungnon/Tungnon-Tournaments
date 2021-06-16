@@ -1,0 +1,58 @@
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 52 SpA / 204 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Protect  
+- Lava Plume  
+- Toxic  
+- Stealth Rock  
+
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 104 Atk / 148 Def / 4 SpD  
+Impish Nature  
+- U-turn  
+- Earthquake  
+- Protect  
+- Knock Off  
+
+Latias (F) @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Trick  
+- Draco Meteor  
+- Healing Wish  
+- Psyshock  
+
+Absol-Mega @ Absolite  
+Ability: Justified  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Snatch  
+- Sucker Punch  
+- Swords Dance  
+- Megahorn  
+
+Zapdos @ Choice Specs  
+Ability: Static  
+EVs: 16 Def / 236 SpA / 8 SpD / 248 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Heat Wave  
+- Tailwind  
+- Roost  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 140 Def / 40 SpA / 76 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Substitute  
+- Calm Mind  
+- Scald  
+- Protect  
+
